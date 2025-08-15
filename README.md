@@ -1,6 +1,6 @@
 # Lernatelier1
 ## 1. Tag
 ### Ziele
-1. Ich möchte die heutigen aufgaben fertig machen und noch ein wenig Zeit förig haben um an anderem zu arbeiten.
-2. Ich möchte in Codecademy das Modul für C# anfangen.
-3. Ich möchte nicht vergessen meine Pause zu nehmen.
+1. Als erstes will ich die Aufgaben, welche wir heute bekommen haben, erledigne.
+2. Als zweites will ich in Codecademy das Modul für C# anfangen und minimum 1 Teil davon erledigen.
+3. Als drittes will ich, wenn ich noch zeit habe, bei den Modulen weiter arbeiten.
