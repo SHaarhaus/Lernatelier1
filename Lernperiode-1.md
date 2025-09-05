@@ -30,14 +30,14 @@ Ich hatte nicht sehr viel Zeit föhrig um an meinen Zielen weiter zu arbeiten. G
 - {x} Husi von Modul 431 fertig
 - {x} Codecademy Intro to C# weitermachen
 
-## 29.08.2025
+### 29.08.2025
 Reflexion: Heute habe ich meine Husi für das Modul 431 gemacht und am Intro to C# von Codecademy weitergemacht. Nächstesmall werde ich das Intro Fertig machen können. Ich habe auch mit Johannes geredet und er hat mir seinen Code gezeigt. Ich habe gelernt wie man zufällige Numern in C# macht.
 
 ## Planung 05.09.2025
 - {x} Husi von Modul 431 fertig
 - {x} CodecademyIntro to C# feritg
 
-## 05.09.2025
+### 05.09.2025
 Reflexion: Heute habe ich meine Husi von Modul 431 so gut wie möglich fertig gemacht. Ich muss dann am Dienstag noch Herr Schmied um Hilfe bei 1715 fragen.
 Zusätzlich habe ich das Intro to C# von Codecademy fertig gemacht. Die restliche Zeit habe ich damit verbracht an meinem Game weiter zu arbeiten.
 
