@@ -35,8 +35,8 @@ Reflexion: Heute habe ich meine Husi für das Modul 431 gemacht und am Intro to 
 Ich habe auch mit Johannes geredet und er hat mir seinen Code gezeigt. Ich habe gelernt wie man zufällige Numern macht.
 
 ## Planung 05.09.2025
-- {} Husi von anderen Modulen fertig
-- {} Intro to C# feritg
+- {x} Husi von anderen Modulen fertig
+- {x} Intro to C# feritg
 
 ## Lernperiode Reflexion
 
