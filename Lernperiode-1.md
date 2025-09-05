@@ -48,5 +48,5 @@ Zusätzlich habe ich das Intro to C# von Codecademy fertig gemacht. Die restlich
 ## Lernperiode Reflexion
 
 ## Links
-https://www.codecademy.com/learn
-https://moodle.bbbaden.ch/
+- https://www.codecademy.com/learn
+- https://moodle.bbbaden.ch/
