@@ -22,7 +22,7 @@ Name: Haarhaus Saskia
 - {x} Modul 319 fertig
 - {} Modul 431 (wenn möglich) fertig
 
-## 22.08.2025
+### 22.08.2025
 Reflexion: Heute habe ich diese Datei fertig gemacht und weitere Aufgaben, welche wir bekommen haben gemacht. 
 Ich hatte nicht sehr viel Zeit föhrig um an meinen Zielen weiter zu arbeiten. Gegen Ende des Tages habe ich noch ein wenig C# in Codecademy geübt.
 
@@ -42,8 +42,10 @@ Reflexion: Heute habe ich meine Husi von Modul 431 so gut wie möglich fertig ge
 Zusätzlich habe ich das Intro to C# von Codecademy fertig gemacht. Die restliche Zeit habe ich damit verbracht an meinem Game weiter zu arbeiten.
 
 ## Planung 12.09.2025
-- {} Husi von Modul 431 fertig
-- {} An meinem Game weiterarbeiten
+- {x} Husi von Modul 431 fertig
+- {x} An meinem Game weiterarbeiten
+
+### 12.09.2025
 
 ## Lernperiode Reflexion
 
