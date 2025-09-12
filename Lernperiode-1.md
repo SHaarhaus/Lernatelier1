@@ -20,7 +20,7 @@ Name: Haarhaus Saskia
 ### Generelle Ziele
 - {x} Codecademy intro to C# fertig
 - {x} Modul 319 fertig
-- {} Modul 431 fertig
+- {} Modul 431 (wenn möglich) fertig
 
 ## 22.08.2025
 Reflexion: Heute habe ich diese Datei fertig gemacht und weitere Aufgaben, welche wir bekommen haben gemacht. 
