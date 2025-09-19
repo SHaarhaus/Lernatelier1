@@ -15,7 +15,7 @@ Name: Haarhaus Saskia
 -
 
 ### Projekte / neue Technologien
-- {} C#
+- C#
 
 ### Generelle Ziele
 - {x} Codecademy intro to C# fertig
