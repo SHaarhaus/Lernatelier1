@@ -49,8 +49,8 @@ Zusätzlich habe ich das Intro to C# von Codecademy fertig gemacht. Die restlich
 Reflexion: Heute habe ich meine Husi von Modul 431 fertig gemachat. Danach habe ich an meinem Spiel weitergearbeitet. Ich habe den 2. Dunkelraum gemacht und bin jetzt fast fertig.
 
 ## Plannung 19.09.2025
-- {} Husi von Modul 431 fertig
-- {} An meinem Game weiterarbeiten
+- {x} Husi von Modul 431 fertig
+- {x} An meinem Game weiterarbeiten
 
 ### 19.09.2025
 Reflexion:
