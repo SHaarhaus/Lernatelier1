@@ -35,7 +35,7 @@ Reflexion: Heute habe ich meine Husi für das Modul 431 gemacht und am Intro to 
 
 ## Planung 05.09.2025
 - {x} Husi von Modul 431 fertig
-- {x} CodecademyIntro to C# feritg
+- {x} Codecademy Intro to C# feritg
 
 ### 05.09.2025
 Reflexion: Heute habe ich meine Husi von Modul 431 so gut wie möglich fertig gemacht. Ich muss dann am Dienstag noch Herr Schmied um Hilfe bei 1715 fragen.
@@ -53,10 +53,10 @@ Reflexion: Heute habe ich meine Husi von Modul 431 fertig gemachat. Danach habe 
 - {x} An meinem Game weiterarbeiten
 
 ### 19.09.2025
-Reflexion:
+Reflexion: Heute hatte ich keine Husi von Modul 431 und ich habe mein Spiel schon am Mittwoch fertig gemacht, also habe ich angefangen eine Anleitung zu Unity durchzuarbeiten.
 
 ## Lernperiode Reflexion
-
+In dieser Lernperiode habe ich immer meine Hausaufgaben gemacht, das Intro to C# in Codecademy fertig gemacht und ich habe mein Spiel fertig machen können. Ich konnte das Modul 431 leider nicht fertig machen können. Ich habe gegen ende der Lernperiode eine Anleitung zu Unity angefangen und würde diese gerne in der nächsten Lernperiode weitermachen.
 ## Links
 - https://www.codecademy.com/learn
 - https://moodle.bbbaden.ch/
