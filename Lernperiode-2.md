@@ -26,7 +26,7 @@ Ich würde gerne versuchen ein wenig mehr Produktif zu sein im vergleich zur ler
 ### 17.10.2025
 Reflextion: 
 
-## Lernperiode reflexion
+## Lernperiode Reflexion
 
 ## Links
 - https://moodle.bbbaden.ch/
