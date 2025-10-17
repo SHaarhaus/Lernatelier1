@@ -1,4 +1,4 @@
-# Lernperiode 2
+# Lern-Periode 2
 Name: Haarhaus Saskia
 
 17.10.2025 bis xxx
@@ -12,7 +12,7 @@ Name: Haarhaus Saskia
 -
 
 ### Veränderungen
--
+Ich würde gerne versuchen ein wenig mehr Produktif zu sein im vergleich zur lertzten Lernperiode.
 
 ### Projekte / neue Technologien
 - C#
