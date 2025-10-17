@@ -22,7 +22,7 @@ Ich würde gerne versuchen ein wenig mehr Produktif zu sein im vergleich zur ler
 - {} Ein kleines Spiel mit Unity machen
 
 ### 17.10.2025
-Reflextion: Heute habe Ich am OBA für Modul 319 weiter gemacht und ich habe es fast fertig machen können.
+Reflextion: Heute habe Ich am OBA für Modul 319 weiter gemacht und ich habe es fast fertig machen können. Ich habe auch an der Anleitung für Unity weiter gemacht.
 
 ## Plannung 24.10.2025
 - {} Husi von anderen Modulen machen (ich weiss noch nicht welche)
