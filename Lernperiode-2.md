@@ -24,4 +24,4 @@ Name: Haarhaus Saskia
 - {} 
 
 ### 17.10.2025
-Reflektion: 
+Reflextion: 
