@@ -4,8 +4,8 @@ Name: Saskia Haarhaus
 17.10.2025 bis 19.12.1025
 
 ## Grob-Planung
-- {} Anleitung für Unity gebrauch fertig
-- {} Probieren ein kleines Spiel mit Unity zu machen
+- [] Anleitung für Unity gebrauch fertig
+- [] Probieren ein kleines Spiel mit Unity zu machen
 
 ### Noten
 -
@@ -18,15 +18,15 @@ Ich würde gerne versuchen ein wenig mehr Produktif zu sein im vergleich zur ler
 - Unity
 
 ### Generelle Ziele
-- {} Anleitung für Unity gebrauch fertig
-- {} Ein kleines Spiel mit Unity machen
+- [] Anleitung für Unity gebrauch fertig
+- [] Ein kleines Spiel mit Unity machen
 
 ### 17.10.2025
 Reflextion: Heute habe Ich am OBA für Modul 319 weiter gemacht und ich habe es fast fertig machen können. Ich habe auch an der Anleitung für Unity weiter gemacht.
 
 ## Plannung 24.10.2025
-- {x} Husi von anderen Modulen machen (ich weiss noch nicht welche)
-- {} An der Anleitung für den gebrauch von Unity weiterarbeiten
+- [x] Husi von anderen Modulen machen (ich weiss noch nicht welche)
+- [] An der Anleitung für den gebrauch von Unity weiterarbeiten
 
 ## Lernperiode Reflexion
 
