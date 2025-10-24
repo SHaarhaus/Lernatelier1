@@ -1,7 +1,7 @@
 # Lern-Periode 2
 Name: Saskia Haarhaus
 
-17.10.2025 bis xxx
+17.10.2025 bis 19.12.1025
 
 ## Grob-Planung
 - {} Anleitung für Unity gebrauch fertig
@@ -25,7 +25,7 @@ Ich würde gerne versuchen ein wenig mehr Produktif zu sein im vergleich zur ler
 Reflextion: Heute habe Ich am OBA für Modul 319 weiter gemacht und ich habe es fast fertig machen können. Ich habe auch an der Anleitung für Unity weiter gemacht.
 
 ## Plannung 24.10.2025
-- {} Husi von anderen Modulen machen (ich weiss noch nicht welche)
+- {x} Husi von anderen Modulen machen (ich weiss noch nicht welche)
 - {} An der Anleitung für den gebrauch von Unity weiterarbeiten
 
 ## Lernperiode Reflexion
