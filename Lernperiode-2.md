@@ -26,7 +26,15 @@ Reflextion: Heute habe ich an meinem OBA für Modul 319 weiter gearbeited und ic
 
 ## Plannung 24.10.2025
 - [x] Husi von anderen Modulen machen (ich weiss noch nicht welche)
+- [x] An der Anleitung für den Gebrauch von Unity weiterarbeiten
+
+### 24.10.2025
+Reflexion: Ich hatte heute keine Husi von den neuen Modulen, weil wir die alten (319 und 431) diese Woche abgeschlossen haben. Dafür habe ich 1/6 von der Anleitung für den Gebrauch von Unity fertig gemacht. Ich habe auch ein wenig mit einer Rainworld Overseers Desktop Pet App herumgespielt. Ich habe versucht die Farbe von den Overseers zu ändern, habe es aber leider nicht geschaft. 
+
+## Plannung 31.10.2025
+- [] Husi von anderen Modulen machen (ich weiss noch nicht welche)
 - [] An der Anleitung für den Gebrauch von Unity weiterarbeiten
+- [] Lernen wie man eine Mod für Rainworld macht
 
 ## Lernperiode Reflexion
 
