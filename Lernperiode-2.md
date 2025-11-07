@@ -40,9 +40,17 @@ Reflexion: Ich hatte heute keine Husi von den neuen Modulen, weil wir die alten 
 Reflexion: Heute habe ich 1 Aufgabe von Modul 162 gemacht und ich habe an der Anleitung für den Gebrauch von Unity weitergemacht. Zusätzlich habe ich mir ein Video über die Animation von Rainworld angeschaut und ich habe mir eine Playlist an Rainworld Modding Videos für nächstesmal gespeichert. Ich habe auch mit dem Code von einem der Spiele, welches ich habe, herumgespielt und mir angeschaut wie es aussieht.
 
 ## Plannung 7.11.2025
-- [ ] Husi von Modul 162 und dem Projekt machen
-- [ ] An der Anleitung für den Gebrauch von Unity weiterarbeiten
-- [ ] Die Playlist zum lernen wie man eine Rainworld Mod macht weiter anschauen
+- [x] Husi von Modul 162 und dem Projekt machen
+- [x] An der Anleitung für den Gebrauch von Unity weiterarbeiten
+- [x] Die Playlist zum lernen wie man eine Rainworld Mod macht weiter anschauen
+
+### 7.11.2025
+Reflexion: Heute habe ich 1 Aufgabe von Modul 162 gemacht und ich habe an der Anleitung für den Gebrauch von Unity weitergemacht. Zusaätzlich habe ich angefangen mich vorzubereiten Rainworld Mods zu machen.
+
+## Plannung 14.11.2025
+- [x] Husi von Modul 162 und dem Projekt machen
+- [x] An der Anleitung für den Gebrauch von Unity weiterarbeiten
+- [x] Die Playlist zum lernen wie man eine Rainworld Mod macht weiter anschauen
 
 ## Lernperiode Reflexion
 
