@@ -58,9 +58,9 @@ Ich habe ebenfalls an der Anleitung für den Gebrauch von Unity weitergemacht. I
 Zusätzlich habe ich heute das 2. Video in der Playlist für Rainworld modding angeschaut und habe mit den Vorbereitungen weitergemacht. Ich habe jetzt den Ordner erstellt, indem die Mod sein wird. Ich werde höchstwahrscheinlich nicht sehr viel weiter kommen, weil ich Rainworld noch nicht auf dem Laptop habe und ich deswegen nicht mit den Dateien arbeiten kann.
 
 ## Plannung 21.11.2025
-- [x] Husi von Modul 162 und dem Projekt machen
-- [x] 2. und 3. Teil der Anleitung für den gebrauch von Unity fertig machen
-- [x] 3. Video von der Rainworld modding Playlist anschauen
+- [ ] Husi von Modul 162 und dem Projekt machen
+- [ ] 2. und 3. Teil der Anleitung für den gebrauch von Unity fertig machen
+- [ ] 3. Video von der Rainworld modding Playlist anschauen
 
 ## Lernperiode Reflexion
 
