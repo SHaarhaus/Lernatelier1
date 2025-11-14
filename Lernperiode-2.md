@@ -5,7 +5,7 @@ Name: Saskia Haarhaus
 
 ## Grob-Planung
 - [ ] Anleitung für Unity gebrauch fertig
-- [ ] Probieren ein kleines Spiel mit Unity zu machen
+- [ ] Eine Rainworld Mod machen
 
 ### Noten
 -
