@@ -68,9 +68,14 @@ Ich habe ebenfalls an der Anleitung für den Gebrauch von Unity weitergemacht. K
 Ich habe mir auch die Rainworld modding Playlist weiter angeschaut. Ich bin biss zum 8. Video in der Playlist gekommen. Ich hätte vielleicht 1-2 Videos weniger anschauen können um dafür mehr an Unity arbeiten zu können. In 1-2 Wochen werde ich mir Rainworld auf dem Laptop hollen können und dann werde cih anfangen können richtig an meiner Mod zu arbeiten.
 
 ## Plannung 28.11.2025
-- [ ] Husi von Modul 162
-- [ ] 3. Teil der Anleitung für den Gebrauch von Unity fertig machen
+- [x] Husi von Modul 162
+- [x] 3. Teil der Anleitung für den Gebrauch von Unity fertig machen
 - [ ] 9. Video von der Rainworld modding Playlist anschauen
+
+### 28.11.2025
+Reflexion: Heute hatte ich keine Hausaufgaben für Modul 162, weil ich am Dienstag schon sehr gut vorangekommen bin. 
+Ich habe heute den dritten Teil der Anleitung für den Gebrauch von Unity fertiggestellt. Ich bin nicht mehr so interessiert an Unity, also fällt es mir schwer, die Anleitung weiter zu bearbeiten. Deshalb werde ich vorerst eine Pause von Unity machen und mich mehr auf meine Rain World-Mod fokussieren.
+Da ich jetzt endlich Rain World auf dem Laptop habe, habe ich mir heute nochmals die vorherigen Videos angeschaut und einige Fehler, die ich gefunden habe, behoben. Das nächste Mal werde ich mich ein wenig mehr darauf fokussieren, zu lernen, wie man RainED benutzt, um dann anfangen zu können, die Regionen meiner Mod zu erstellen.
 
 ## Lernperiode Reflexion
 
