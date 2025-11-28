@@ -77,6 +77,11 @@ Reflexion: Heute hatte ich keine Hausaufgaben für Modul 162, weil ich am Dienst
 Ich habe heute den dritten Teil der Anleitung für den Gebrauch von Unity fertiggestellt. Ich bin nicht mehr so interessiert an Unity, also fällt es mir schwer, die Anleitung weiter zu bearbeiten. Deshalb werde ich vorerst eine Pause von Unity machen und mich mehr auf meine Rain World-Mod fokussieren.
 Da ich jetzt endlich Rain World auf dem Laptop habe, habe ich mir heute nochmals die vorherigen Videos angeschaut und einige Fehler, die ich gefunden habe, behoben. Das nächste Mal werde ich mich ein wenig mehr darauf fokussieren, zu lernen, wie man RainED benutzt, um dann anfangen zu können, die Regionen meiner Mod zu erstellen.
 
+## Plannung 28.11.2025
+- [ ] Husi von Modul 162
+- [ ] Die RainED Anleitung weiter durchlesen
+- [ ] 1 Raum für meine Rainworld Mod machen
+
 ## Lernperiode Reflexion
 
 ## Links
