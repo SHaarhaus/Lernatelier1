@@ -75,11 +75,21 @@ Ich habe mir auch die Rainworld modding Playlist weiter angeschaut. Ich bin biss
 ### 28.11.2025
 Reflexion: Heute hatte ich keine Hausaufgaben für Modul 162, weil ich am Dienstag schon sehr gut vorangekommen bin. 
 Ich habe heute den dritten Teil der Anleitung für den Gebrauch von Unity fertiggestellt. Ich bin nicht mehr so interessiert an Unity, also fällt es mir schwer, die Anleitung weiter zu bearbeiten. Deshalb werde ich vorerst eine Pause von Unity machen und mich mehr auf meine Rain World-Mod fokussieren.
-Da ich jetzt endlich Rain World auf dem Laptop habe, habe ich mir heute nochmals die vorherigen Videos angeschaut und einige Fehler, die ich gefunden habe, behoben. Das nächste Mal werde ich mich ein wenig mehr darauf fokussieren, zu lernen, wie man RainED benutzt, um dann anfangen zu können, die Regionen meiner Mod zu erstellen.
+Da ich jetzt endlich Rain World auf dem Laptop habe, habe ich mir heute nochmals die vorherigen Videos angeschaut und einige Fehler, die ich gefunden habe, behoben. Das nächste Mal werde ich mich ein wenig mehr darauf fokussieren, zu lernen, wie man Rained benutzt, um dann anfangen zu können, die Regionen meiner Mod zu erstellen.
 
-## Plannung 28.11.2025
-- [ ] Husi von Modul 162
-- [ ] Die RainED Anleitung weiter durchlesen
+## Plannung 05.12.2025
+- [x] Husi von Modul 162
+- [x] Die Rained Anleitung weiter durchlesen
+- [x] 1 Raum für meine Rainworld Mod machen
+
+### 05.12.2025
+Reflexion: Heute hatte ich keine Husi vom Modul 162. 
+Ich habe mir in meiner Freizeit schon ein Tutorial für Rained angeschaut, also brauche ich die Anleitung nicht mehr. 
+Ich habe es geschaft 1 Raum mit Rained zu machen. Am anfang hatte ich eineige schwierigkeiten aber nach ein wenig ausprobieren bin ich gut voran gekommen.
+
+## Plannung 05.12.2025
+- [ ] Husi den neuen Modulen
+- [ ] Die Rained Anleitung weiter durchlesen
 - [ ] 1 Raum für meine Rainworld Mod machen
 
 ## Lernperiode Reflexion
