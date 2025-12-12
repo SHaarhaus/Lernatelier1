@@ -87,10 +87,15 @@ Reflexion: Heute hatte ich keine Husi vom Modul 162.
 Ich habe mir in meiner Freizeit schon ein Tutorial für Rained angeschaut, also brauche ich die Anleitung nicht mehr. 
 Ich habe es geschaft 1 Raum mit Rained zu machen. Am anfang hatte ich eineige schwierigkeiten aber nach ein wenig ausprobieren bin ich gut voran gekommen.
 
-## Plannung 05.12.2025
-- [ ] Husi den neuen Modulen
-- [ ] Die Rained Anleitung weiter durchlesen
-- [ ] 1 Raum für meine Rainworld Mod machen
+## Plannung 12.12.2025
+- [x] Husi von den neuen Modulen machen
+- [x] Miguel Rained beibringen
+- [x] min. 1 Raum für meine Rainworld Mod machen
+
+### 12.12.2025
+Reflexion: Ich hatte heute keine Husi von dem neuen Modul (Modul 117). 
+Miguel brauchte heute auch nicht viel hilfe von mir.
+Ich habe einfach an meiner Mod gearbeited. Ich habe einige fehler behoben die ich übersehen hatte. Nächstesmal könnte ich vielleicht versuchen mir den Code von anderen Mods ein wenig anzusehen.
 
 ## Lernperiode Reflexion
 
