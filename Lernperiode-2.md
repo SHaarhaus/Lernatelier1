@@ -98,9 +98,9 @@ Miguel brauchte heute auch nicht viel hilfe von mir.
 Ich habe einfach an meiner Mod gearbeited. Ich habe einige fehler behoben die ich übersehen hatte. Nächstesmal könnte ich vielleicht versuchen mir den Code von anderen Mods ein wenig anzusehen.
 
 ## Plannung 19.12.2025
-- [x] Husi von Modul 117 machen
-- [x] Miguel Rained beibringen
-- [x] min. 1 Raum für meine Rainworld Mod machen
+- [ ] Husi von Modul 117 machen
+- [ ] Miguel Rained beibringen
+- [ ] min. 1 Raum für meine Rainworld Mod machen
 
 ## Lernperiode Reflexion
 
