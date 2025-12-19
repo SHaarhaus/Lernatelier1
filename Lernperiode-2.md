@@ -98,11 +98,16 @@ Miguel brauchte heute auch nicht viel hilfe von mir.
 Ich habe einfach an meiner Mod gearbeited. Ich habe einige fehler behoben die ich übersehen hatte. Nächstesmal könnte ich vielleicht versuchen mir den Code von anderen Mods ein wenig anzusehen.
 
 ## Plannung 19.12.2025
-- [ ] Husi von Modul 117 machen
-- [ ] Miguel Rained beibringen
-- [ ] min. 1 Raum für meine Rainworld Mod machen
+- [x] Husi von Modul 117 machen
+- [x] Miguel Rained beibringen
+- [x] min. 1 Raum für meine Rainworld Mod machen
+
+### 19.12.2025
+Reflexion: Heute hatte ich keine Hausaufgaben für Modul 117.
+Miguel kennt sich inzwischen sehr gut mit Rained aus und braucht meine Hilfe fast nicht mehr.
+Heute habe ich einen Raum für meine Mod erstellt. Es ist der zweitgrösste Raum, den ich bis jetzt gemacht habe. Ich bin allerdings nicht sehr zufrieden mit seinem Aussehen. Nach den Ferien muss ich ihn nochmals überarbeiten. Ich könnte versuchen, einen anderen Raum als Vorlage zu benutzen.
 
 ## Lernperiode Reflexion
-
+Ich bin in dieser Lernperiode um einiges produktiver gewesen als in der letzten. Dafür habe ich mir zu grosse Ziele gesetzt. In der nächsten Lernperiode sollte ich darauf achten, mir etwas kleinere Ziele zu setzen, aber trotzdem gleich produktiv zu bleiben. Ich könnte zum Beispiel versuchen, eine der Regionen meiner Mod fertigzustellen.
 ## Links
 - https://moodle.bbbaden.ch/
