@@ -26,3 +26,8 @@ xx.xx.xxxx bis xx.xx.xxxx
 - 
 
 ### Generelle Ziele
+
+## Lernperiode Reflexion
+
+## Links
+- https://moodle.bbbaden.ch/
