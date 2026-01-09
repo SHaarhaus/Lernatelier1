@@ -4,9 +4,9 @@ Name: Saskia Haarhaus
 09.01.2026 bis 27.03.2026
 
 ## Grob-Planung
-- Versuchen jeden Tag etwas neues für meine Rainworld Mod zu machen
-- Ludocrypts Videos anschauen, um mehr über Devtools zu lernen
-- Fishys Videos anschauen, um mehr über Rainworld Level Editing zu lernen
+- [ ] Versuchen jeden Tag etwas neues für meine Rainworld Mod zu machen
+- [ ] Ludocrypts Videos anschauen, um mehr über Devtools zu lernen
+- [ ] Fishys Videos anschauen, um mehr über Rainworld Level Editing zu lernen
 
 ### Noten
 - Modul 431: 5.0
@@ -14,7 +14,7 @@ Name: Saskia Haarhaus
 - Modul 162: 5.0
 
 ### Veränderungen
-
+Ich würde gerne versuchen, alle meine Ziele zu erreichen.
 
 ### Projekte / neue Technologien
 - C#
@@ -22,9 +22,9 @@ Name: Saskia Haarhaus
 - Rainworld Devtools
 
 ### Generelle Ziele
-- Eine Region von meiner Rainworld Mod (so gut wie möglich) fertig machen
-- Lernen wie man Rainworld Devtools benutzt
-- Lernen wie man in Rained richtig Materials benutzt
+- [ ] Eine Region von meiner Rainworld Mod (so gut wie möglich) fertig machen
+- [ ] Lernen wie man Rainworld Devtools benutzt
+- [ ] Lernen wie man in Rained richtig Materials benutzt
 
 ## Plannung 09.01.2026
 - [x] Lernperiode vorbereiten
