@@ -32,10 +32,10 @@ Ich würde gerne versuchen, alle meine Ziele zu erreichen.
 - [x] Ludos Devtool Video anschauen
 
 ### 09.01.2026
-Reflexion: Heute habe ich mir ein wenig mehr Zeit rausgenommen um dieses Dokument zu machen, um es ein wenig zu verbessern und mir eine Vorlage zu machen.
-Miguel hat heute nicht sehr viel Hilfe gebrauch. Ich musste ihm nur ein paar Sachen über room entrances wieder erklären.
-Ich habe mir das Video von Ludo über Devtools angeschaut und habe einen meiner ersten Räume verbessert. 
-(Ich habe leider kein Bild von wie es früher ausgesehen hat aber ich habe einen anderen Raum der ähnlich aussieht.)
+Reflexion: Heute habe ich mir etwas mehr Zeit genommen, um dieses Dokument zu erstellen, es ein wenig zu verbessern und mir eine Vorlage anzulegen.
+Miguel hat heute nicht sehr viel Hilfe gebraucht. Ich musste ihm nur ein paar Dinge zu den Room Entrances noch einmal erklären.
+Ich habe mir das Video von Ludo über DevTools angeschaut und einen meiner ersten Räume verbessert.
+(Leider habe ich kein Bild davon, wie es früher ausgesehen hat, aber ich habe ein Bild von einem anderen Raum, der ähnlich aussieht.)
 
 Vorher:
 
