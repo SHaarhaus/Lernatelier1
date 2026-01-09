@@ -1,7 +1,7 @@
 # Lern-Periode 2
 Name: Saskia Haarhaus
 
-17.10.2025 bis 19.12.1025
+17.10.2025 bis 19.12.2025
 
 ## Grob-Planung
 - [ ] Anleitung für Unity gebrauch fertig
