@@ -37,3 +37,5 @@ Ich würde gerne versuchen, alle meine Ziele zu erreichen.
 
 ## Links
 - https://moodle.bbbaden.ch/
+- https://www.youtube.com/playlist?list=PLOpeR3bQUKEJIGBJ3TATHBLmNvZwyYioT
+- https://www.youtube.com/playlist?list=PLRrwbPCA4N5_A3MfEnmaaEiA63GM8lHml
