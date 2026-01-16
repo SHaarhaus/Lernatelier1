@@ -5,7 +5,7 @@ Name: Saskia Haarhaus
 
 ## Grob-Planung
 - [ ] Versuchen jeden Tag etwas neues für meine Rainworld Mod zu machen
-- [ ] Ludocrypts Videos anschauen, um mehr über Devtools zu lernen
+- [x] Ludocrypts Videos anschauen, um mehr über Devtools zu lernen
 - [ ] Fishys Videos anschauen, um mehr über Rainworld Level Editing zu lernen
 
 ### Noten
@@ -47,9 +47,9 @@ Nachher:
 <img width="480" height="300" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/8cd9827e-0367-4008-b7f4-06515e92805e" />
 
 ## Plannung 09.01.2026
-- [x] Einen Shelter machen
-- [x] Mehr mit Devtools experimentieren
-- [x] Mindestens ein Video von Fishy anschauen
+- [ ] Einen Shelter machen
+- [ ] Mehr mit Devtools experimentieren
+- [ ] Mindestens ein Video von Fishy anschauen
 
 ## Lernperiode Reflexion
 
