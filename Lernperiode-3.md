@@ -46,10 +46,19 @@ Nachher:
 
 <img width="480" height="300" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/8cd9827e-0367-4008-b7f4-06515e92805e" />
 
-## Plannung 09.01.2026
-- [ ] Einen Shelter machen
-- [ ] Mehr mit Devtools experimentieren
+## Plannung 16.01.2026
+- [x] Einen Shelter machen
+- [x] Mehr mit Devtools experimentieren
 - [ ] Mindestens ein Video von Fishy anschauen
+
+### 16.01.2026
+Reflexion:
+<img width="480" height="300" alt="image" src="https://github.com/user-attachments/assets/8dda2af9-1a14-4b12-aa23-b3f9f4bb1623" />
+
+## Plannung 23.01.2026
+- [ ] Palette von Sewage System fertig machen
+- [ ] Mit den Pflanzen in Rained experimentieren
+- [ ] Devtools Tutorial anschauen
 
 ## Lernperiode Reflexion
 
