@@ -52,9 +52,11 @@ Nachher:
 - [x] Mindestens ein Video von Fishy anschauen
 
 ### 16.01.2026
-Reflexion:
+Reflexion: Heute habe ich einen Shelter für meine Mod gemacht und ihn mit den Devtools bearbeitet, sodass er den anderen Räumen ähnelt. 
 
-<img width="480" height="300" alt="image" src="https://github.com/user-attachments/assets/8dda2af9-1a14-4b12-aa23-b3f9f4bb1623" />
+<img width="480" height="300" alt="image" src="https://github.com/user-attachments/assets/f27e76f1-d03d-4b35-b4cc-23b4dd27891e" />
+
+Außerdem habe ich mir ein Video von Fishy angeschaut und werde nächstes Mal versuchen, einige der Dinge, die ich gesehen habe, nachzumachen.
 
 ## Plannung 23.01.2026
 - [ ] Palette von Sewage System fertig machen
