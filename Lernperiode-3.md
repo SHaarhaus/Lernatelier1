@@ -49,7 +49,7 @@ Nachher:
 ## Plannung 16.01.2026
 - [x] Einen Shelter machen
 - [x] Mehr mit Devtools experimentieren
-- [ ] Mindestens ein Video von Fishy anschauen
+- [x] Mindestens ein Video von Fishy anschauen
 
 ### 16.01.2026
 Reflexion:
@@ -60,6 +60,7 @@ Reflexion:
 - [ ] Palette von Sewage System fertig machen
 - [ ] Mit den Pflanzen in Rained experimentieren
 - [ ] Devtools Tutorial anschauen
+- [ ] Mindestens ein Video von Fishy anschauen
 
 ## Lernperiode Reflexion
 
