@@ -53,6 +53,7 @@ Nachher:
 
 ### 16.01.2026
 Reflexion:
+
 <img width="480" height="300" alt="image" src="https://github.com/user-attachments/assets/8dda2af9-1a14-4b12-aa23-b3f9f4bb1623" />
 
 ## Plannung 23.01.2026
