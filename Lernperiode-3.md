@@ -81,6 +81,15 @@ Ich habe auch einen Raum gemacht um zu sehen wie alle Pflanzen in Rained aussehe
 <img width="480" height="300" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/df8b7440-cd7d-4bcc-95a5-5ccc8073c9b4" />
 
 (Das sind nur gut ein Drittel der Pflanzen.)
+Einige der Pflanzen haben aus irgend einem Grund nicht geladen. Ich muss nächstes Mall versuchen das zu Reparieren.
+
+Ich habe mir auch ein Tutorial für Devtools angeschaut und kenne jetzt einige nützliche Tasten Kombinationen.
+Fishys Videos haben mir heute nicht sehr viel geholfen.
+
+## Plannung 13.02.2026
+- [ ] Pflanzen Raum reparieren
+- [ ] Mehr Räume für Sewage System machen
+- [ ] Nach einem anderen Namen für The Ocean suchen
 
 ## Lernperiode Reflexion
 
