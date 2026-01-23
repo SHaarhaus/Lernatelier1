@@ -82,7 +82,6 @@ Ich habe auch einen Raum gemacht um zu sehen wie alle Pflanzen in Rained aussehe
 
 (Das sind nur gut ein Drittel der Pflanzen.)
 Einige der Pflanzen haben aus irgend einem Grund nicht geladen. Ich muss nächstes Mall versuchen das zu Reparieren.
-
 Ich habe mir auch ein Tutorial für Devtools angeschaut und kenne jetzt einige nützliche Tasten Kombinationen.
 Fishys Videos haben mir heute nicht sehr viel geholfen.
 
