@@ -66,12 +66,14 @@ Außerdem habe ich mir ein Video von Fishy angeschaut und werde nächstes Mal ve
 
 ### 23.02.2026
 Reflexion: Ich habe heute die Palette von Sewage System ein wenig verändert. Ich musste nicht mehr viel machen, habe dafür aber einige Ketten und Seile hinzugefügt, so dass es ein wenig weniger lehr Ausieht.
+
 Vorher:
 
 <img width="480" height="300" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/f37699f5-5545-49db-8361-204f499dd632" />
 
 Nachher:
 
+<img width="480" height="300" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/559728b8-b466-4dc3-9cbc-b7e2e7951ea9" />
 
 
 Ich habe auch einen Raum gemacht um zu sehen wie alle Pflanzen in Rained aussehen.
