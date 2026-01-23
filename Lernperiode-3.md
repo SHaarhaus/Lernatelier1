@@ -65,7 +65,7 @@ Außerdem habe ich mir ein Video von Fishy angeschaut und werde nächstes Mal ve
 - [x] Mindestens ein Video von Fishy anschauen
 
 ### 23.02.2026
-Reflexion: Ich habe heute die Palette von Sewage System ein wenig verändert. Ich musste nicht mehr viel machen, habe dafür aber einige Ketten und Seile hinzugefügt, so dass es ein wenig weniger lehr Ausieht.
+Reflexion: Ich habe heute die Palette von Sewage System ein wenig verändert. Ich musste nicht mehr viel machen, habe dafür aber einige Ketten und Seile hinzugefügt, sodass es ein wenig weniger leer aussieht.
 
 Vorher:
 
@@ -76,14 +76,14 @@ Nachher:
 <img width="480" height="300" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/559728b8-b466-4dc3-9cbc-b7e2e7951ea9" />
 
 
-Ich habe auch einen Raum gemacht um zu sehen wie alle Pflanzen in Rained aussehen.
+Ich habe auch einen Raum erstellt, um zu sehen, wie alle Pflanzen in Rained aussehen.
 
 <img width="480" height="300" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/df8b7440-cd7d-4bcc-95a5-5ccc8073c9b4" />
 
 (Das sind nur gut ein Drittel der Pflanzen.)
-Einige der Pflanzen haben aus irgend einem Grund nicht geladen. Ich muss nächstes Mall versuchen das zu Reparieren.
+Einige der Pflanzen haben aus irgendeinem Grund nicht geladen. Ich muss nächstes Mal versuchen, das zu reparieren.
 
-Ich habe mir auch ein Tutorial für Devtools angeschaut und kenne jetzt einige nützliche Tasten Kombinationen.
+Ich habe mir außerdem ein Tutorial für Devtools angeschaut und kenne jetzt einige nützliche Tastenkombinationen.
 Fishys Videos haben mir heute nicht sehr viel geholfen.
 
 ## Plannung 13.02.2026
