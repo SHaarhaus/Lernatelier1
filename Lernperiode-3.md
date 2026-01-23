@@ -59,12 +59,29 @@ Reflexion: Heute habe ich einen Shelter für meine Mod gemacht und ihn mit den D
 Außerdem habe ich mir ein Video von Fishy angeschaut und werde nächstes Mal versuchen, einige der Dinge, die ich gesehen habe, nachzumachen.
 
 ## Plannung 23.01.2026
-- [ ] Palette von Sewage System fertig machen
-- [ ] Mit den Pflanzen in Rained experimentieren
-- [ ] Devtools Tutorial anschauen
-- [ ] Mindestens ein Video von Fishy anschauen
+- [x] Palette von Sewage System fertig machen
+- [x] Mit den Pflanzen in Rained experimentieren
+- [x] Devtools Tutorial anschauen
+- [x] Mindestens ein Video von Fishy anschauen
+
+### 23.02.2026
+Reflexion: Ich habe heute die Palette von Sewage System ein wenig verändert. Ich musste nicht mehr viel machen, habe dafür aber einige Ketten und Seile hinzugefügt, so dass es ein wenig weniger lehr Ausieht.
+Vorher:
+
+<img width="480" height="300" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/f37699f5-5545-49db-8361-204f499dd632" />
+
+Nachher:
+
+
+
+Ich habe auch einen Raum gemacht um zu sehen wie alle Pflanzen in Rained aussehen.
+
+<img width="480" height="300" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/df8b7440-cd7d-4bcc-95a5-5ccc8073c9b4" />
+
+(Das sind nur gut ein Drittel der Pflanzen.)
 
 ## Lernperiode Reflexion
+
 
 ## Links
 - https://moodle.bbbaden.ch/
