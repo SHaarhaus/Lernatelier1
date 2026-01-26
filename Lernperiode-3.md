@@ -87,7 +87,7 @@ Ich habe mir außerdem ein Tutorial für Devtools angeschaut und kenne jetzt ein
 Fishys Videos haben mir heute nicht sehr viel geholfen.
 
 ## Plannung 13.02.2026
-- [ ] Pflanzen Raum reparieren
+- [x] Pflanzen Raum reparieren
 - [ ] Mehr Räume für Sewage System machen
 - [ ] Nach einem anderen Namen für The Ocean suchen
 
