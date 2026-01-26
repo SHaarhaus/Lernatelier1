@@ -22,7 +22,7 @@ Ich würde gerne versuchen, alle meine Ziele zu erreichen.
 - Rainworld Devtools
 
 ### Generelle Ziele
-- [ ] Eine Region von meiner Rainworld Mod (so gut wie möglich) fertig machen
+- [ ] Eine Subregion von meiner Rainworld Mod (so gut wie möglich) fertig machen
 - [ ] Lernen wie man Rainworld Devtools benutzt
 - [ ] Lernen wie man in Rained richtig Materials benutzt
 
