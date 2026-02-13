@@ -92,15 +92,15 @@ Fishys Videos haben mir heute nicht sehr viel geholfen.
 - [x] Nach einem anderen Namen für The Ocean suchen
 
 ### 13.02.2026
-Reflexion: Ich habe heute den Planzen Raum repariert und einige neue Pflanzen ausprobiert.
+Reflexion: Ich habe heute den Pflanzen Raum repariert und einige neue Pflanzen ausprobiert.
 
 <img width="480" height="300" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/fc241a63-6a8e-4aad-b02b-4a523343535e" />
 
-Ich habe heute auch noch einen neuen Raum führ Sewage System gemacht. Ich habe ein wenig mit den Tiles herumgespielt und habe entdeckt das ich Pipes sehr einfach miteinander verbinden kann.
+Außerdem habe ich einen neuen Raum für das Sewage-System erstellt. Ich habe ein wenig mit den Tiles herumgespielt und entdeckt, dass ich Pipes sehr einfach miteinander verbinden kann.
 
 <img width="480" height="300" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/e3d3ff92-de5a-4ca0-b3a9-1bc402bd7c3c" />
 
-Ich habe auch nach einem besseren Namen führ the Ocean gesucht, habe aber keinen gefunden.
+Ich habe auch nach einem besseren Namen für The Ocean gesucht, aber keinen gefunden.
 
 ## Lernperiode Reflexion
 
