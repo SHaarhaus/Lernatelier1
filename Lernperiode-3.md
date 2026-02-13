@@ -23,8 +23,8 @@ Ich würde gerne versuchen, alle meine Ziele zu erreichen.
 
 ### Generelle Ziele
 - [ ] Eine Subregion von meiner Rainworld Mod (so gut wie möglich) fertig machen
-- [ ] Lernen wie man Rainworld Devtools benutzt
-- [ ] Lernen wie man in Rained richtig Materials benutzt
+- [x] Lernen wie man Rainworld Devtools benutzt
+- [ ] Lernen wie man in Rained richtig Materials benutzt  
 
 ## Plannung 09.01.2026
 - [x] Lernperiode vorbereiten
