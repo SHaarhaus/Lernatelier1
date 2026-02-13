@@ -6,7 +6,7 @@ Name: Saskia Haarhaus
 ## Grob-Planung
 - [ ] Versuchen jeden Tag etwas neues für meine Rainworld Mod zu machen
 - [x] Ludocrypts Videos anschauen, um mehr über Devtools zu lernen
-- [ ] Fishys Videos anschauen, um mehr über Rainworld Level Editing zu lernen
+- [x] Fishys Videos anschauen, um mehr über Rainworld Level Editing zu lernen
 
 ### Noten
 - Modul 431: 5.0
