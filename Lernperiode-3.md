@@ -102,6 +102,11 @@ Außerdem habe ich einen neuen Raum für das Sewage-System erstellt. Ich habe ei
 
 Ich habe auch nach einem besseren Namen für The Ocean gesucht, aber keinen gefunden.
 
+## Plannung 13.02.2026
+- [ ] Einen Raum machen um verschiedene Ropes auszuprobieren
+- [ ] Einen Raume für Sewage System machen
+- [ ] Mit Miguel *versuchen* Hintergrundmusik zu machen
+
 ## Lernperiode Reflexion
 
 
