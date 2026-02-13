@@ -105,7 +105,7 @@ Ich habe auch nach einem besseren Namen für The Ocean gesucht, aber keinen gefu
 ## Plannung 13.02.2026
 - [ ] Einen Raum machen um verschiedene Ropes auszuprobieren
 - [ ] Einen Raume für Sewage System machen
-- [ ] Mit Miguel /versuchen/ Hintergrundmusik zu machen
+- [ ] Mit Miguel **versuchen** Hintergrundmusik zu machen
 
 ## Lernperiode Reflexion
 
