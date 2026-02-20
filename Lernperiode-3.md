@@ -24,7 +24,7 @@ Ich würde gerne versuchen, alle meine Ziele zu erreichen.
 ### Generelle Ziele
 - [ ] Eine Subregion von meiner Rainworld Mod (so gut wie möglich) fertig machen
 - [x] Lernen wie man Rainworld Devtools benutzt
-- [ ] Lernen wie man in Rained richtig Materials benutzt  
+- [ ] Lernen wie man in Rained Materials richtig benutzt  
 
 ## Plannung 09.01.2026
 - [x] Lernperiode vorbereiten
@@ -103,7 +103,7 @@ Außerdem habe ich einen neuen Raum für das Sewage-System erstellt. Ich habe ei
 Ich habe auch nach einem besseren Namen für The Ocean gesucht, aber keinen gefunden.
 
 ## Plannung 20.02.2026
-- [ ] Einen Raum machen um verschiedene Ropes auszuprobieren
+- [x] Einen Raum machen um verschiedene Ropes auszuprobieren
 - [ ] Einen Raume für Sewage System machen
 - [ ] Mit Miguel **versuchen** Hintergrundmusik zu machen
 
