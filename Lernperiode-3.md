@@ -128,9 +128,6 @@ Ich habe heute auch noch einen weiteren Raum erstellt.
 
 Miguel und ich haben heute außerdem ein wenig Musik gemacht.
 
-[Wobbly city.mp3](https://github.com/user-attachments/files/25600838/Wobbly.city.mp3)
-
-
 ## Lernperiode Reflexion
 
 
