@@ -107,6 +107,14 @@ Ich habe auch nach einem besseren Namen für The Ocean gesucht, aber keinen gefu
 - [ ] Einen Raume für Sewage System machen
 - [ ] Mit Miguel **versuchen** Hintergrundmusik zu machen
 
+ ### 20.02.2026
+ Reflexion: Heute habe ich zusammen mit Miguel, Luca, Mateo und Zehra weiter am Netzwerklabor für Modul 117 gearbeitet und konnte deswegen nicht wirklich das machen, was ich für heute geplant hatte. Ich habe aber einen noch nicht fertigen Raum erstellt.
+
+ ## Plannung 20.02.2026
+- [ ] Den nicht fertigen Raum vom letzten mal fertig machen
+- [ ] Einen Raume für Sewage System machen
+- [ ] Mit Miguel **versuchen** Hintergrundmusik zu machen
+
 ## Lernperiode Reflexion
 
 
