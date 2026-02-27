@@ -110,10 +110,26 @@ Ich habe auch nach einem besseren Namen für The Ocean gesucht, aber keinen gefu
  ### 20.02.2026
  Reflexion: Heute habe ich zusammen mit Miguel, Luca, Mateo und Zehra weiter am Netzwerklabor für Modul 117 gearbeitet und konnte deswegen nicht wirklich das machen, was ich für heute geplant hatte. Ich habe aber einen noch nicht fertigen Raum erstellt.
 
- ## Plannung 20.02.2026
-- [ ] Den nicht fertigen Raum vom letzten mal fertig machen
-- [ ] Einen Raume für Sewage System machen
-- [ ] Mit Miguel **versuchen** Hintergrundmusik zu machen
+ ## Plannung 27.02.2026
+- [x] Den nicht fertigen Raum vom letzten mal fertig machen
+- [x] Einen Raume für Sewage System machen
+- [x] Mit Miguel **versuchen** Hintergrundmusik zu machen
+
+### 27.02.2026
+Heute habe ich den Raum vom letzten Mal fertig gemacht.
+
+<img width="480" height="300" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/c64acceb-5b07-4636-a2de-cc98f65246e2" />
+<img width="480" height="300" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/97f05882-8e8e-40e1-86bc-0a2d5ad1f781" />
+<img width="480" height="300" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/2730d407-873d-4328-989a-719c3864520b" />
+
+Ich habe heute auch noch einen weiteren Raum erstellt.
+
+<img width="480" height="300" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/e6a75840-285f-4017-a8cb-fdca418eec2b" />
+
+Miguel und ich haben heute außerdem ein wenig Musik gemacht.
+
+[Wobbly city.mp3](https://github.com/user-attachments/files/25600838/Wobbly.city.mp3)
+
 
 ## Lernperiode Reflexion
 
