@@ -130,8 +130,8 @@ Miguel und ich haben heute außerdem ein wenig Musik gemacht.
 
  ## Plannung 06.03.2026
 - [ ] Properties von den Räumen, die ich bisher schon gemacht habe, überprüfen
-- [ ] Einen Raume für Sewage System machen
-- [ ] **Versuchen** selber Hintergrundmusik zu machen
+- [ ] 6 Screen Raum fertig machen
+- [ ] Github Account aktualisieren
 
 ## Lernperiode Reflexion
 
