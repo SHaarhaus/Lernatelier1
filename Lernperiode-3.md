@@ -129,9 +129,17 @@ Ich habe heute auch noch einen weiteren Raum erstellt.
 Miguel und ich haben heute außerdem ein wenig Musik gemacht.
 
  ## Plannung 06.03.2026
-- [ ] Properties von den Räumen, die ich bisher schon gemacht habe, überprüfen
-- [ ] 6 Screen Raum fertig machen
-- [ ] Github Account aktualisieren
+- [x] Properties von den Räumen, die ich bisher schon gemacht habe, überprüfen
+- [x] 6 Screen Raum fertig machen
+- [x] Github Account aktualisieren
+
+### 06.03.2026
+Reflexion: Heute habe ich kurz alle Räume, die ich bisher schon gemacht habe, überprüft, um zu sehen, ob alle dieselben Einstellungen haben.
+Ich habe ebenfalls noch den Raum mit sechs Screens fertig gemacht, den ich im VIA angefangen habe. Ich denke, er ist sehr gut herausgekommen, könnte aber ein paar weniger Chains brauchen.
+
+<img width="480" height="300" alt="image" src="https://github.com/user-attachments/assets/1da182de-0127-4447-987b-a204a8aae78f" />
+
+Ich habe außerdem meinen GitHub-Account aktualisiert. Ich habe einfach nur meinen öffentlichen Namen geändert und meine persönliche E-Mail als Backup-E-Mail angegeben.
 
 ## Lernperiode Reflexion
 
