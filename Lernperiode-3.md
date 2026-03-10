@@ -142,9 +142,10 @@ Ich habe ebenfalls noch den Raum mit sechs Screens fertig gemacht, den ich im VI
 Ich habe außerdem meinen GitHub-Account aktualisiert. Ich habe einfach nur meinen öffentlichen Namen geändert und meine persönliche E-Mail als Backup-E-Mail angegeben.
 
  ## Plannung 13.03.2026
-- [ ] **Versuchen** Misuk für meine Mod zu machen
+- [ ] **Versuchen** Musik für meine Mod zu machen
 - [ ] Mit Schnee in meinen Räumen rumspielen
 - [ ] kill Luca
+- [ ] Meine Steam Notizen anschauen
 
 ## Lernperiode Reflexion
 
