@@ -118,9 +118,7 @@ Ich habe auch nach einem besseren Namen für The Ocean gesucht, aber keinen gefu
 ### 27.02.2026
 Heute habe ich den Raum vom letzten Mal fertig gemacht.
 
-<img width="480" height="300" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/c64acceb-5b07-4636-a2de-cc98f65246e2" />
 <img width="480" height="300" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/97f05882-8e8e-40e1-86bc-0a2d5ad1f781" />
-<img width="480" height="300" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/2730d407-873d-4328-989a-719c3864520b" />
 
 Ich habe heute auch noch einen weiteren Raum erstellt.
 
