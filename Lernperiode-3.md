@@ -144,7 +144,7 @@ Ich habe außerdem meinen GitHub-Account aktualisiert. Ich habe einfach nur mein
  ## Plannung 13.03.2026
 - [ ] **Versuchen** Musik für meine Mod zu machen
 - [ ] Mit Schnee in meinen Räumen rumspielen
-- [ ] kill Luca
+- [x] kill Luca
 - [ ] Meine Steam Notizen anschauen
 
 ## Lernperiode Reflexion
