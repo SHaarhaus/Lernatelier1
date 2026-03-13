@@ -152,6 +152,7 @@ Ich habe außerdem meinen GitHub-Account aktualisiert. Ich habe einfach nur mein
 
 ## Links
 - https://moodle.bbbaden.ch/
-- Ludo: https://www.youtube.com/playlist?list=PLOpeR3bQUKEJIGBJ3TATHBLmNvZwyYioT
-- Fishy: https://www.youtube.com/playlist?list=PLRrwbPCA4N5_A3MfEnmaaEiA63GM8lHml
-- Devtools Wiki: https://rainworldmodding.miraheze.org/wiki/Dev_Tools
+- [Ludo](https://www.youtube.com/playlist?list=PLOpeR3bQUKEJIGBJ3TATHBLmNvZwyYioT)
+- [Fishy](https://www.youtube.com/playlist?list=PLRrwbPCA4N5_A3MfEnmaaEiA63GM8lHml)
+- [Devtools Wiki](https://rainworldmodding.miraheze.org/wiki/Dev_Tools)
+- [Soundtrap](https://www.soundtrap.com/home/creator/projects?msockid=3ef3003d91a5611d10c316af901d60ff)
