@@ -142,16 +142,31 @@ Ich habe ebenfalls noch den Raum mit sechs Screens fertig gemacht, den ich im VI
 Ich habe außerdem meinen GitHub-Account aktualisiert. Ich habe einfach nur meinen öffentlichen Namen geändert und meine persönliche E-Mail als Backup-E-Mail angegeben.
 
  ## Plannung 13.03.2026
-- [ ] **Versuchen** Musik für meine Mod zu machen
-- [ ] Mit Schnee in meinen Räumen rumspielen
+- [x] **Versuchen** Musik für meine Mod zu machen
+- [x] Mit Schnee in meinen Räumen rumspielen
 - [x] kill Luca
-- [ ] Meine Steam Notizen anschauen
+- [x] Meine Steam Notizen anschauen
+
+
+### 13.03.2026
+Heute habe ich einem meiner Räume Schnee hinzugefügt und meiner Meinung nach sieht es sehr gut aus. Ich habe es einer Kollegin von mir gezeigt, um zu sehen, ob sie es auch mag. Sie hat gesagt, dass der Schnee ein wenig wie Staub aussieht, also werde ich nächstes Mal schauen, ob ich das ändern kann.
+
+Ohne Schnee:
+
+<img width="480" height="300" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/e6a75840-285f-4017-a8cb-fdca418eec2b" />
+
+Mit Schnee:
+
+
+
+Ich habe heute ebenfalls versucht, selbst Musik zu machen, habe aber sehr schnell bemerkt, dass ich nicht sehr gut darin bin.
+Ich konnte auch einige der Sachen in meinen Steam-Notizen abhaken.
 
 ## Lernperiode Reflexion
 
 
 ## Links
-- https://moodle.bbbaden.ch/
+- [Moodle](https://moodle.bbbaden.ch/)
 - [Ludo](https://www.youtube.com/playlist?list=PLOpeR3bQUKEJIGBJ3TATHBLmNvZwyYioT)
 - [Fishy](https://www.youtube.com/playlist?list=PLRrwbPCA4N5_A3MfEnmaaEiA63GM8lHml)
 - [Devtools Wiki](https://rainworldmodding.miraheze.org/wiki/Dev_Tools)
