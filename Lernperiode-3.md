@@ -162,9 +162,20 @@ Ich konnte auch einige der Sachen in meinen Steam-Notizen abhaken.
 <img width="311" height="294" alt="image" src="https://github.com/user-attachments/assets/d5915de8-cf0a-41e6-95bf-266855427db3" />
 
  ## Plannung 20.03.2026
-- [ ] Grosser Raum in 2 teilen
-- [ ] Raum mit Schnee ein wenig abändern
-- [ ] kill Luca Teil 2
+- [x] Grosser Raum in 2 teilen
+- [x] Raum mit Schnee ein wenig abändern
+- [x] kill Luca Teil 2
+- [x] Meine Steam Notizen anschauen
+
+### 20.03.2026
+Heute habe ich den großen Raum in zwei Teile geteilt, aber es sieht nicht sehr gut aus, also werde ich es nächstes Mal neu machen.
+Ich konnte noch keinen Weg finden, den Schnee weniger wie Staub aussehen zu lassen.
+Ich hatte heute nichts Neues zu tun in meinen Steam-Notizen.
+
+ ## Plannung 20.03.2026
+- [ ] Grosser Raum verbessern
+- [ ] Raum mit Schnee ein wenig abändern Versuch 2
+- [ ] kill Luca Teil 3
 - [ ] Meine Steam Notizen anschauen
 
 ## Lernperiode Reflexion
