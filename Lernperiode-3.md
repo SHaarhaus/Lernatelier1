@@ -145,14 +145,12 @@ Ich habe außerdem meinen GitHub-Account aktualisiert. Ich habe einfach nur mein
 - [x] kill Luca
 - [x] Meine Steam Notizen anschauen
 
-
 ### 13.03.2026
 Heute habe ich einem meiner Räume Schnee hinzugefügt und meiner Meinung nach sieht es sehr gut aus. Ich habe es einer Kollegin von mir gezeigt, um zu sehen, ob sie es auch mag. Sie hat gesagt, dass der Schnee ein wenig wie Staub aussieht, also werde ich nächstes Mal schauen, ob ich das ändern kann.
 
 Vorher:
 
 <img width="480" height="300" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/8b8d7721-7e17-488f-aad1-efd1f180a5e3" />
-
 
 Nachher:
 
@@ -161,7 +159,7 @@ Nachher:
 Ich habe heute ebenfalls versucht, selbst Musik zu machen, habe aber sehr schnell bemerkt, dass ich nicht sehr gut darin bin.
 Ich konnte auch einige der Sachen in meinen Steam-Notizen abhaken.
 
-<img width="376" height="315" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/bf9ed207-8c7c-4531-a676-235a7aa3c58c" />
+<img width="311" height="294" alt="image" src="https://github.com/user-attachments/assets/d5915de8-cf0a-41e6-95bf-266855427db3" />
 
  ## Plannung 20.03.2026
 - [ ] Grosser Raum in 2 teilen
@@ -170,7 +168,6 @@ Ich konnte auch einige der Sachen in meinen Steam-Notizen abhaken.
 - [ ] Meine Steam Notizen anschauen
 
 ## Lernperiode Reflexion
-
 
 ## Links
 - [Moodle](https://moodle.bbbaden.ch/)
