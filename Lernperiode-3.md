@@ -161,11 +161,11 @@ Nachher:
 Ich habe heute ebenfalls versucht, selbst Musik zu machen, habe aber sehr schnell bemerkt, dass ich nicht sehr gut darin bin.
 Ich konnte auch einige der Sachen in meinen Steam-Notizen abhaken.
 
-<img width="752" height="630" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/bf9ed207-8c7c-4531-a676-235a7aa3c58c" />
-
+<img width="376" height="315" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/bf9ed207-8c7c-4531-a676-235a7aa3c58c" />
 
  ## Plannung 20.03.2026
 - [ ] Grosser Raum in 2 teilen
+- [ ] Raum mit Schnee ein wenig abändern
 - [ ] kill Luca Teil 2
 - [ ] Meine Steam Notizen anschauen
 
