@@ -151,6 +151,11 @@ Heute habe ich einem meiner Räume Schnee hinzugefügt und meiner Meinung nach s
 Ich habe heute ebenfalls versucht, selbst Musik zu machen, habe aber sehr schnell bemerkt, dass ich nicht sehr gut darin bin.
 Ich konnte auch einige der Sachen in meinen Steam-Notizen abhaken.
 
+ ## Plannung 13.03.2026
+- [ ] Grosser Raum in 2 teilen
+- [ ] kill Luca Teil 2
+- [ ] Meine Steam Notizen anschauen
+
 ## Lernperiode Reflexion
 
 
