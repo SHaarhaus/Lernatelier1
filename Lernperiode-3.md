@@ -148,10 +148,23 @@ Ich habe außerdem meinen GitHub-Account aktualisiert. Ich habe einfach nur mein
 
 ### 13.03.2026
 Heute habe ich einem meiner Räume Schnee hinzugefügt und meiner Meinung nach sieht es sehr gut aus. Ich habe es einer Kollegin von mir gezeigt, um zu sehen, ob sie es auch mag. Sie hat gesagt, dass der Schnee ein wenig wie Staub aussieht, also werde ich nächstes Mal schauen, ob ich das ändern kann.
+
+Vorher:
+
+<img width="480" height="300" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/8b8d7721-7e17-488f-aad1-efd1f180a5e3" />
+
+
+Nachher:
+
+<img width="480" height="300" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/ff4fbaa1-b6e2-43b2-88b7-a7cb1c79bb44" />
+
 Ich habe heute ebenfalls versucht, selbst Musik zu machen, habe aber sehr schnell bemerkt, dass ich nicht sehr gut darin bin.
 Ich konnte auch einige der Sachen in meinen Steam-Notizen abhaken.
 
- ## Plannung 13.03.2026
+<img width="752" height="630" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/bf9ed207-8c7c-4531-a676-235a7aa3c58c" />
+
+
+ ## Plannung 20.03.2026
 - [ ] Grosser Raum in 2 teilen
 - [ ] kill Luca Teil 2
 - [ ] Meine Steam Notizen anschauen
