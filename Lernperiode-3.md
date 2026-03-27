@@ -4,7 +4,7 @@ Name: Saskia Haarhaus
 09.01.2026 bis 27.03.2026
 
 ## Grob-Planung
-- [ ] Versuchen jeden Tag etwas neues für meine Rainworld Mod zu machen
+- [x] Versuchen jeden Tag etwas neues für meine Rainworld Mod zu machen
 - [x] Ludocrypts Videos anschauen, um mehr über Devtools zu lernen
 - [x] Fishys Videos anschauen, um mehr über Rainworld Level Editing zu lernen
 
@@ -24,7 +24,7 @@ Ich würde gerne versuchen, alle meine Ziele zu erreichen.
 ### Generelle Ziele
 - [ ] Eine Subregion von meiner Rainworld Mod (so gut wie möglich) fertig machen
 - [x] Lernen wie man Rainworld Devtools benutzt
-- [ ] Lernen wie man in Rained Materials richtig benutzt  
+- [x] Lernen wie man in Rained Materials richtig benutzt  
 
 ## Plannung 09.01.2026
 - [x] Lernperiode vorbereiten
@@ -168,17 +168,29 @@ Ich konnte auch einige der Sachen in meinen Steam-Notizen abhaken.
 - [x] Meine Steam Notizen anschauen
 
 ### 20.03.2026
-Heute habe ich den großen Raum in zwei Teile geteilt, aber es sieht nicht sehr gut aus, also werde ich es nächstes Mal neu machen.
+Reflexion: Heute habe ich den großen Raum in zwei Teile geteilt, aber es sieht nicht sehr gut aus, also werde ich es nächstes Mal neu machen.
 Ich konnte noch keinen Weg finden, den Schnee weniger wie Staub aussehen zu lassen.
 Ich hatte heute nichts Neues zu tun in meinen Steam-Notizen.
 
- ## Plannung 20.03.2026
-- [ ] Grosser Raum verbessern
-- [ ] Raum mit Schnee ein wenig abändern Versuch 2
-- [ ] kill Luca Teil 3
-- [ ] Meine Steam Notizen anschauen
+ ## Plannung 27.03.2026
+- [x] Grosser Raum verbessern
+- [x] Raum mit Schnee ein wenig abändern Versuch 2
+- [x] kill Luca Teil 3
+- [x] Meine Steam Notizen anschauen
+
+### 27.03.2026
+Reflexion: Heute habe ich den großen Raum verbessert und es lagt jetzt entlich nicht mehr.
+Ich habe den Raum mit Schnee ein wenig abgeändert (Versuch 2) und es sieht jetzt um einiges besser aus.
+Zum Schluss habe ich mir noch meine Steam-Notizen angeschaut, aber es gab nichts wirklich Neues.
 
 ## Lernperiode Reflexion
+Ich konnte leider nicht alle meine Ziele fertigstellen. Wir haben uns entschieden, das Sewage-System ungefähr doppelt so groß zu machen wie geplant, 
+und deshalb konnte ich es nicht fertigstellen.
+Dafür habe ich gelernt, wie man DevTools benutzt, und bin um einiges besser im Umgang mit Materials/Tiles in Rained geworden. Momentan habe ich etwas 
+an Motivation verloren, an meiner Mod weiterzuarbeiten.
+Deshalb werde ich mich für den Moment anderen Dingen widmen, wie zum Beispiel weiter C# zu lernen, und vielleicht zwischendurch ein wenig an meiner 
+Mod arbeiten. Ich bin zufrieden mit dem Fortschritt, den ich in dieser Lernperiode gemacht habe, und hoffe, dass ich in der nächsten Lernperiode 
+genauso produktiv und motiviert bin wie in dieser.
 
 ## Links
 - [Moodle](https://moodle.bbbaden.ch/)
