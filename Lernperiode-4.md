@@ -4,9 +4,9 @@ Name: Saskia Haarhaus
 08.05.2026 bis 26.06.2026
 
 ## Grob-Planung
-{ } Geschenk für Herr Fischi machen
-{ } An den restlichen Modulen arbeiten
-{ } Mehr C# lernen
+- [ ] Geschenk für Herr Fischi machen
+- [ ] An den restlichen Modulen arbeiten
+- [ ] Mehr C# lernen
 
 ### Noten
 - Modul 431: 5.0
@@ -23,13 +23,13 @@ Name: Saskia Haarhaus
 - Visual Studio
 
 ### Generelle Ziele
-{ } Besser in C# werden
-{ } Meine restlichen Module vollständig fertig machen
-{ } Ein gutes Geschenk für Herr Fischi machen
+- [ ] Besser in C# werden
+- [ ] Meine restlichen Module vollständig fertig machen
+- [ ] Ein gutes Geschenk für Herr Fischi machen
 
 ## Plannung 08.05.2026
-{ } Geschenk für Herr Fischi machen
-{ } An Modul 106 arbeiten
+- [ ] Geschenk für Herr Fischi machen
+- [ ] An Modul 106 arbeiten
 
 ## Lernperiode Reflexion
 
