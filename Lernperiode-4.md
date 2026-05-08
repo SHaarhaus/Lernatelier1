@@ -1,4 +1,3 @@
-[HerrFisch.zip](https://github.com/user-attachments/files/27513893/HerrFisch.zip)
 # Lern-Periode 4
 Name: Saskia Haarhaus
 
@@ -31,6 +30,9 @@ Name: Saskia Haarhaus
 ## Plannung 08.05.2026
 - [x] Geschenk für Herr Fischi machen
 - [x] An Modul 106 arbeiten
+
+### 08.05.2026
+Reflexion: Heute habe ich zwei Aufgaben für das Modul 106 gemacht und ein Geschenk für meinen ehemaligen Lehrer, Herr Fischer, vorbereitet.
 
 [HerrFisch.zip](https://github.com/user-attachments/files/27513900/HerrFisch.zip)
 
