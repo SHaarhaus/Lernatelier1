@@ -4,7 +4,7 @@ Name: Saskia Haarhaus
 08.05.2026 bis 26.06.2026
 
 ## Grob-Planung
-- [ ] Geschenk für Herr Fischi machen
+- [x] Geschenk für Herr Fischi machen
 - [ ] An den restlichen Modulen arbeiten
 - [ ] Mehr C# lernen
 
@@ -25,11 +25,11 @@ Name: Saskia Haarhaus
 ### Generelle Ziele
 - [ ] Besser in C# werden
 - [ ] Meine restlichen Module vollständig fertig machen
-- [ ] Ein gutes Geschenk für Herr Fischi machen
+- [x] Ein gutes Geschenk für Herr Fischi machen
 
 ## Plannung 08.05.2026
-- [ ] Geschenk für Herr Fischi machen
-- [ ] An Modul 106 arbeiten
+- [x] Geschenk für Herr Fischi machen
+- [x] An Modul 106 arbeiten
 
 ## Lernperiode Reflexion
 
