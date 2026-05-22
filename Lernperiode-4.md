@@ -36,10 +36,16 @@ Reflexion: Heute habe ich zwei Aufgaben für das Modul 106 gemacht und ein Gesch
 
 [HerrFisch.zip](https://github.com/user-attachments/files/27513900/HerrFisch.zip)
 
-## 22.05.2026
-- [ ] C# üben
-- [ ] Github Repository für meine Mod machen
-- [ ] Anforderungsanalyse für Modul 122 machen
+## Plannung 22.05.2026
+- [x] C# üben
+- [x] Github Repository für meine Mod machen
+
+### 22.05.2026
+Reflexion: Heute habe ich ein wenig C# geübt und *(mit sehr viel Mühe)* ein Repository für meine Mod gemacht.
+
+## Plannung 29.05.2026
+- [ ] Versuchen auf Discord um hilfe zu bitten
+- [ ] Den Code von Clangen anschauen
 
 
 ## Lernperiode Reflexion
