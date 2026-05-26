@@ -14,6 +14,8 @@ Name: Saskia Haarhaus
 - Modul 162: 5.0
 - Modul 164: 4.5
 - Modul 117: 5.5
+- Modul 187: 3.5
+- Modul 106: 5.5
 
 ### Veränderungen
 -
