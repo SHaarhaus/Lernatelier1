@@ -49,6 +49,15 @@ Reflexion: Heute habe ich ein wenig C# geübt und *(mit sehr viel Mühe)* ein Re
 - [ ] Versuchen auf Discord um hilfe zu bitten
 - [ ] Den Code von Clangen anschauen
 
+### 29.05.2026
+Reflexion: Heute habe ich versucht, mir den Code von Clangen anzuschauen, aber ich konnte nicht ganz herausfinden, wie DnSpy (das Programm, das ich dafür benutzt habe) funktioniert.
+Ich konnte ebenfalls immer noch nicht auf Discord um Hilfe fragen, da ich dafür mehr im Discord-Chat schreiben müsste (und das will ich nicht wirklich machen).
+Dafür habe ich mein Rained geupdatet und mir zusätzliche Assets von Mo's Assets (einem GitHub-Repository für fan-made Rained-Assets) geholt. Ich konnte diese jedoch nicht richtig in Rained integrieren, also werde ich das nächstes Mal noch einmal versuchen müssen.
+
+## Plannung 05.06.2026
+- [ ] Mo's Assets richitg in Rained integrieren
+- [ ] An meinem Script für das Mittwochsmodul weiterarbeiten
+
 
 ## Lernperiode Reflexion
 
