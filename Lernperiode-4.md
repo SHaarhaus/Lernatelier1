@@ -55,8 +55,15 @@ Ich konnte ebenfalls immer noch nicht auf Discord um Hilfe fragen, da ich dafür
 Dafür habe ich mein Rained geupdatet und mir zusätzliche Assets von Mo's Assets (einem GitHub-Repository für fan-made Rained-Assets) geholt. Ich konnte diese jedoch nicht richtig in Rained integrieren, also werde ich das nächstes Mal noch einmal versuchen müssen.
 
 ## Plannung 05.06.2026
-- [ ] Mo's Assets richitg in Rained integrieren
-- [ ] An meinem Script für das Mittwochsmodul weiterarbeiten
+- [x] Mo's Assets richitg in Rained integrieren
+- [x] An meinem Script für das Mittwochsmodul weiterarbeiten
+
+### 05.06.2026
+Reflexion: Heute habe ich den Rest von Mo's Assets in Rained integriert.
+Ich habe ebenfalls an meinem Skript für das Mittwochsmodul weitergearbeitet und gute Fortschritte gemacht.
+
+## Plannung 12.06.2026
+- [ ] Weiter am Mittwochsmodul arbeiten
 
 
 ## Lernperiode Reflexion
