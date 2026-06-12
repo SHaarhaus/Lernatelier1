@@ -63,8 +63,13 @@ Reflexion: Heute habe ich den Rest von Mo's Assets in Rained integriert.
 Ich habe ebenfalls an meinem Skript für das Mittwochsmodul weitergearbeitet und gute Fortschritte gemacht.
 
 ## Plannung 12.06.2026
-- [ ] Weiter am Mittwochsmodul arbeiten
+- [x] Weiter am Mittwochsmodul arbeiten
 
+### 12.06.2026
+Reflexion: Heute habe ich an meinem Skript für das Mittwochsmodul weitergearbeitet, und ich bin jetzt fast fertig.
+
+## Plannung 19.06.2026
+- [ ] An der Website für das Dienstagsmodul arbeiten
 
 ## Lernperiode Reflexion
 
