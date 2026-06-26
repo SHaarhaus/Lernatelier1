@@ -75,9 +75,15 @@ Reflexion: Heute habe ich an meinem Skript für das Mittwochsmodul weitergearbei
 Reflexion: Heute habe ich am Dienstagsmodul weitergearbeited. Bin aber nicht so weit gekommen wie ich wollte.
 
 ## Plannung 26.06.2026
-- [ ] idfk
+- [x] idfk
+
+### 26.06.2026
+Reflexion: Heute wusste ich nicht genau was ich machen soll, also habe ich einfach ein paar verschiedene Sachen gemacht.
+Ich habe mir einen Plan gemacht für wann ich an welchen Modulen arbeiten werde und ich habe auch die Dateien von meiner Rainworld mod überprüft, um sicher zu stellen das alles gut ist.
 
 ## Lernperiode Reflexion
+In dieser Lernperiode hatte ich nicht wirklich ein konkretes Ziel oder ein Projekt zum dran arbeiten. Ich habe eine Idee für nächstes Jahr, bin mir aber nicht sicher ob ich es machen werde.
+Ich könnte lernen wie man Minecraft modded oder ich könnte an meiner Rainworld mod weitermachen.
 
 ## Links
 - https://moodle.bbbaden.ch/
