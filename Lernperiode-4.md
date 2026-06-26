@@ -5,8 +5,8 @@ Name: Saskia Haarhaus
 
 ## Grob-Planung
 - [x] Geschenk für Herr Fischi machen
-- [ ] An den restlichen Modulen arbeiten
-- [ ] Mehr C# lernen
+- [x] An den restlichen Modulen arbeiten
+- [x] Mehr C# lernen
 
 ### Noten
 - Modul 431: 5.0
@@ -25,7 +25,7 @@ Name: Saskia Haarhaus
 - Visual Studio
 
 ### Generelle Ziele
-- [ ] Besser in C# werden
+- [x] Besser in C# werden
 - [ ] Meine restlichen Module vollständig fertig machen
 - [x] Ein gutes Geschenk für Herr Fischi machen
 
@@ -69,7 +69,13 @@ Ich habe ebenfalls an meinem Skript für das Mittwochsmodul weitergearbeitet und
 Reflexion: Heute habe ich an meinem Skript für das Mittwochsmodul weitergearbeitet, und ich bin jetzt fast fertig.
 
 ## Plannung 19.06.2026
-- [ ] An der Website für das Dienstagsmodul arbeiten
+- [x] An der Website für das Dienstagsmodul arbeiten
+
+### 19.06.2026
+Reflexion: Heute habe ich am Dienstagsmodul weitergearbeited. Bin aber nicht so weit gekommen wie ich wollte.
+
+## Plannung 26.06.2026
+- [ ] idfk
 
 ## Lernperiode Reflexion
 
