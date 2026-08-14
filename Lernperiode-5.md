@@ -4,7 +4,7 @@
 - Zeitraum: 14.08.2026 bis 18.09.2026
 
 ## Grob-Planung
-- [ ](Falls nötig) Aufgaben von den anderen Modulen machen
+- [ ] (Falls nötig) Aufgaben von den anderen Modulen machen
 - [ ] An dem Roblox Game arbeiten (wenn es mehr als 10Fr. kostet, um das Game zu veröffentlichen, lösche ich alles (Ich werde nicht mehr als 10Fr. für ROBLOX von allen Sachen bezahlen (Ja ich werde das erst nachdem ich das Game gemacht habe überprüfen)))
 
 ### Noten
