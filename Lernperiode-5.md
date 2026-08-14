@@ -20,14 +20,14 @@ modding lernen oder ein spiel auf Roblox machen).
 - (Minecraft mod)
 
 ### Generelle Ziele
-- [] in keinem der anderen Module zurückfallen
+- [ ] in keinem der anderen Module zurückfallen
 
 ## Tagesplanungen
 
 ### Planung 14.08.2026
-- [] Game Ideen überlegen
-- [] Tutorials finden und anschauen
-- [] Das Tutorial von Roblox studio durchmachen
+- [ ] Game Ideen überlegen
+- [ ] Tutorials finden und anschauen
+- [ ] Das Tutorial von Roblox studio durchmachen
 
 Reflexion: 
 
