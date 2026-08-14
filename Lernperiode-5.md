@@ -27,9 +27,9 @@ modding lernen oder ein Spiel auf Roblox machen).
 ## Tagesplanungen
 
 ### Planung 14.08.2026
-- [ ] Game Ideen überlegen
-- [ ] Tutorials finden und anschauen
-- [ ] Das Tutorial von Roblox studio durchmachen
+- [x] Game Ideen überlegen
+- [x] Roblox Tutorials finden und anschauen
+- [x] Das Tutorial von Roblox studio durchmachen
 
 Reflexion: 
 
