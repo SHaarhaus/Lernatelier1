@@ -37,3 +37,4 @@ Reflexion:
 
 ## Links
 - https://moodle.bbbaden.ch/
+- https://www.youtube.com/@KatanaBladeHD1
