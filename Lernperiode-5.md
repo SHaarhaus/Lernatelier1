@@ -31,10 +31,14 @@ modding lernen oder ein Spiel auf Roblox machen).
 - [x] Roblox Tutorials finden und anschauen
 - [x] Das Tutorial von Roblox studio durchmachen
 
-Reflexion: 
+Reflexion: Heute habe ich ein neues Projekt angefangen. Ich will ein Spiel auf Roblox machen.
+Ich möchte ein Spiel im Stil von DOORS machen, welches sehr viel Inspiration aus Liminal Spaces nimmt.
+Sofern habe ich mir auf einem Whiteboard einige Ideen notiert und einige Tutorials für Roblox Studio gefunden.
+Nächstes Mal möchte ich ein wenig mit Roblox Studio herumspielen, um den Editor besser zu verstehen.
 
 ## Lernperiode Reflexion
 
 ## Links
 - https://moodle.bbbaden.ch/
 - https://www.youtube.com/@KatanaBladeHD1
+- https://youtube.com/playlist?list=PLtMUa6NlF10e1UqysaWEVAUDTFHdBBMtH&si=dAEsGbV3LBhobinR
