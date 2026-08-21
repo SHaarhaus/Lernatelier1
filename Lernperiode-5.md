@@ -36,6 +36,13 @@ Ich möchte ein Spiel im Stil von DOORS machen, welches sehr viel Inspiration au
 Sofern habe ich mir auf einem Whiteboard einige Ideen notiert und einige Tutorials für Roblox Studio gefunden.
 Nächstes Mal möchte ich ein wenig mit Roblox Studio herumspielen, um den Editor besser zu verstehen.
 
+<img width="1057" height="785" alt="image" src="https://github.com/user-attachments/assets/65b99099-f2bf-4ce4-8321-e36903e902fe" />
+
+
+### Planung 21.08.2026
+- [ ] Nach mehr Ideen suchen
+- [ ] Einige Ideen in Roblox studio ausprobieren
+
 ## Lernperiode Reflexion
 
 ## Links
