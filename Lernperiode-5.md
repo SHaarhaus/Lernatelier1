@@ -40,8 +40,13 @@ Nächstes Mal möchte ich ein wenig mit Roblox Studio herumspielen, um den Edito
 
 
 ### Planung 21.08.2026
-- [ ] Nach mehr Ideen suchen
-- [ ] Einige Ideen in Roblox studio ausprobieren
+- [x] Nach mehr Ideen suchen
+- [x] Einige Ideen in Roblox studio ausprobieren
+
+Reflexion: Heute habe ich mir noch einige Ideen für mein Spiel überlegt. 
+Ich habe ebenfalls ein wenig mit Roblox Studio herumgespielt und einige Bäume und Büsche herausgesucht, die mir gefallen.
+Ich habe auch eine Skybox gefunden, die mir sehr gut gefällt.
+Nächstes Mal werde ich versuchen, ein paar Räume zu erstellen.
 
 ## Lernperiode Reflexion
 
