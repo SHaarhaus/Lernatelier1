@@ -48,6 +48,10 @@ Ich habe ebenfalls ein wenig mit Roblox Studio herumgespielt und einige Bäume u
 Ich habe auch eine Skybox gefunden, die mir sehr gut gefällt.
 Nächstes Mal werde ich versuchen, ein paar Räume zu erstellen.
 
+### Planung 28.08.2026
+- [ ] Räume machen
+- [ ] Das Doors Tutorial anschauen
+
 ## Lernperiode Reflexion
 
 ## Links
