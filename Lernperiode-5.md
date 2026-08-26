@@ -49,8 +49,9 @@ Ich habe auch eine Skybox gefunden, die mir sehr gut gefällt.
 Nächstes Mal werde ich versuchen, ein paar Räume zu erstellen.
 
 ### Planung 28.08.2026
-- [ ] Räume machen
-- [ ] Das Doors Tutorial anschauen
+- [ ] Downloads und Bilder aufräumen
+- [ ] Die Exel Datei von 231 aktualisieren
+- [ ] Die Heightmap von dem Roblox spiel richtig improtieren
 
 ## Lernperiode Reflexion
 
