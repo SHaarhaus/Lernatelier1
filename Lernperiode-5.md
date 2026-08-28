@@ -49,9 +49,20 @@ Ich habe auch eine Skybox gefunden, die mir sehr gut gefällt.
 Nächstes Mal werde ich versuchen, ein paar Räume zu erstellen.
 
 ### Planung 28.08.2026
-- [ ] Downloads und Bilder aufräumen
-- [ ] Die Exel Datei von 231 aktualisieren
-- [ ] Die Heightmap von dem Roblox spiel richtig improtieren
+- [x] Downloads und Bilder aufräumen
+- [x] Die Exel Datei von 231 aktualisieren
+- [x] Die Heightmap von dem Roblox spiel richtig improtieren
+
+Reflexion: Heute habe ich meinen Download- und Bilderordner aufgeräumt, weil sie es wirklich nötig hatten.
+
+<img width="555" height="130" alt="Screenshot 2026-08-28 075102" src="https://github.com/user-attachments/assets/9b8685f9-88cc-487d-996a-dea8a0f46314" />
+
+Ich habe ebenfalls meinen neuen Punktestand von Modul 231 in der Excel-Datei eingetragen.
+Die Heightmap wollte am Anfang nicht wirklich kooperieren, aber ich habe es schlussendlich doch hinbekommen, sie einzufügen.
+
+### Planung 04.09.2026
+- [ ] Die Heightmap überarbeiten
+- [ ] Bäume platzieren
 
 ## Lernperiode Reflexion
 
