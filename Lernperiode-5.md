@@ -53,7 +53,7 @@ Nächstes Mal werde ich versuchen, ein paar Räume zu erstellen.
 - [x] Die Exel Datei von 231 aktualisieren
 - [x] Die Heightmap von dem Roblox spiel richtig improtieren
 
-Reflexion: Heute habe ich meinen Download- und Bilderordner aufgeräumt, weil sie es wirklich nötig hatten.
+Reflexion: Heute habe ich meine Download und Bilder Ordner aufgeräumt, weil sie es wirklich nötig hatten.
 
 <img width="555" height="130" alt="Screenshot 2026-08-28 075102" src="https://github.com/user-attachments/assets/9b8685f9-88cc-487d-996a-dea8a0f46314" />
 
