@@ -61,6 +61,7 @@ Ich habe ebenfalls meinen neuen Punktestand von Modul 231 in der Excel-Datei ein
 Die Heightmap wollte am Anfang nicht wirklich kooperieren, aber ich habe es schlussendlich doch hinbekommen, sie einzufügen.
 
 ### Planung 04.09.2026
+- [ ] Stoff von Modul 320 repetieren
 - [ ] Die Heightmap überarbeiten
 - [ ] Bäume platzieren
 
