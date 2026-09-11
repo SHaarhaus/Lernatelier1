@@ -61,9 +61,19 @@ Ich habe ebenfalls meinen neuen Punktestand von Modul 231 in der Excel-Datei ein
 Die Heightmap wollte am Anfang nicht wirklich kooperieren, aber ich habe es schlussendlich doch hinbekommen, sie einzufügen.
 
 ### Planung 04.09.2026
-- [ ] Stoff von Modul 320 repetieren
+- [x] Stoff von Modul 320 repetieren
 - [ ] Die Heightmap überarbeiten
 - [ ] Bäume platzieren
+
+Reflexion: Ich habe heute ein wenig den Stoff von Modul 320 wiederholt, aber ich glaube, ich hätte es ein wenig besser wiederholen können.
+Ich habe bemerkt, dass meine Idee für das Roblox-Spiel momentan ein wenig zu gross für mich ist, also habe ich mich entschieden, neu anzufangen und nach anderen Ideen zu suchen.
+Die grössten Probleme waren, dass ich nicht genau wusste, wie ich die Spieler in den „Räumen“ (es sind eigentlich nur offene Felder) gefangen halten soll und wie ich die Räume insgesamt abgrenzen soll. 
+Meine neue Idee für das Spiel würde jetzt in den Abwasserkanälen spielen, welche ich um einiges besser kontrollieren kann als die Felder.
+Ich muss mir nächstes Mal noch Gedanken darüber machen, wie die Räume genau aussehen sollen.
+
+### Planung 11.09.2026
+- [ ] Ideen für die neuen Räume finden
+- [ ] Mehr Ideen für Monster finden
 
 ## Lernperiode Reflexion
 
