@@ -29,6 +29,11 @@ Ich will dieses mal wirklich versuchen an kleineren Sachen zu arbeiten, damit ic
 
 Reflexion:
 
+### Planung 23.10.2026
+- [ ] M346
+
+Reflexion: M346
+
 ### Planung 30.10.2026
 - [ ] Idee für kleines Projekt finden
 - [x] Speicher Aufräumen
