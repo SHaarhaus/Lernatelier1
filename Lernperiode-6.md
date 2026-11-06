@@ -11,7 +11,7 @@ Name: Saskia Haarhaus
 - 5.5
 
 ### Veränderungen
-Ich werde in dieser Lernperiode nicht weiter an meinem Roblox Spiel arbeiten (siehe Grund in Lern-Periode 5)./n
+Ich werde in dieser Lernperiode nicht weiter an meinem Roblox Spiel arbeiten (siehe Grund in Lern-Periode 5).
 Ich will dieses mal wirklich versuchen an kleineren Sachen zu arbeiten, damit ich diese auch fertig mache.
 
 ### Projekte / neue Technologien
